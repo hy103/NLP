@@ -20,7 +20,7 @@ This repository contains various Natural Language Processing (NLP) projects and 
 To use the projects and resources in this repository, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/nlp-repo.git
+git clone https://github.com/hy103/NLP.git
 ```
 
 You can also download the repository as a ZIP file and extract it to your desired directory.
