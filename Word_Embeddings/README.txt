@@ -1,10 +1,10 @@
-**What are Word Embeddings?**
+## What are Word Embeddings?
 
 Word embeddings are a powerful technique for representing words in a high-dimensional vector space. They assign a numerical vector notation to each word based on its context in a document, allowing the relationships between words to be captured in a dense, low-dimensional representation.
 
 Imagine you have a lot of words, just like you have a lot of bones in your body. But just like you can't see all of your bones from the outside, it's hard to understand all the meanings of the words just by looking at them. That's where word embeddings come in - they're like X-rays for words! Just like how an X-ray helps doctors see inside your body and understand how your bones fit together, word embeddings help computers understand how words fit together and what they mean. They make it easier for computers to understand what you're trying to say, just like X-rays make it easier for doctors to help you feel better.
 
-**Why are Word Embeddings Required?**
+## Why are Word Embeddings Required?
 
 Word embeddings help to understand the semantic and syntactic relations between the words of a corpus. These are useful when looking for word similarity, word analogy, and sentiment analysis.
 
@@ -23,7 +23,7 @@ Similarity between cat and car: dot_product(cat, car) = 0.4192
 
 As we can see, the similarity between "cat" and "dog" is higher than the similarity between "cat" and "car".
 
-**What are Different Techniques of Word Embeddings?**
+## What are Different Techniques of Word Embeddings?
 
 - Word2Vec
 - GloVe
@@ -31,6 +31,6 @@ As we can see, the similarity between "cat" and "dog" is higher than the similar
 - ELMo
 - BERT
 
-**How to Apply Word Embeddings in Real Life?**
+## How to Apply Word Embeddings in Real Life?
 
 I have worked on Word2Vec for house rental negotiations for people living in Arizona State. The dataset "House_rentals.txt" contains rental negotiation data between people.
