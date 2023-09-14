@@ -1,0 +1,5 @@
+CTransformers
+streamlit
+gradio
+langchain
+
