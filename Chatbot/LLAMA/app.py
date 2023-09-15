@@ -20,7 +20,7 @@ def llm_function(message, chat_history):
     output_texts = response
     return output_texts
 
-title = "CodeLlama 13B ChatBot"
+title = "CodeLlama 7B ChatBot"
 
 examples = [
     'Write a python code to connect with a SQL database and list down all the tables.',
